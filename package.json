@@ -1,6 +1,6 @@
 {
-  "name": "week-2",
-  "version": "0.0.0",
+  "name": "assignment1comp229",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
@@ -18,5 +18,18 @@
     "popper.js": "^1.16.1",
     "gulp": "4.0.2",
     "@types/jquery": "3.3.33"
-  }
+  },
+  "description": "portfolio",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahrzadko/Assignment1.git"
+  },
+  "author": "Shahrzad Kolahdooz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahrzadko/Assignment1/issues"
+  },
+  "homepage": "https://github.com/shahrzadko/Assignment1#readme"
 }
