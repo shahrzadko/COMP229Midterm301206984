@@ -1,12 +1,12 @@
 /* custom css goes here*/
 .cntct-bg{
-    background-image: url("/assets/images/contactbg.png");
+    background-image: url("/Assets/images/contactbg.png");
     background-size: cover;
     background-repeat: no repeat;
 
 }
 .abt-bg{
-    background-image: url("/assets/images/aboutbg.png");
+    background-image: url("/Assets/images/aboutbg.png");
     background-size: cover;
     background-repeat: no repeat;
 
